@@ -1,6 +1,6 @@
 package com.wenhao.designpatterns.observer.common;
 
-public class IListImpl implements IList {
+public class Lisi implements IList {
     @Override
     public void update(String context) {
         System.out.println("李斯开始观察韩非子了");
